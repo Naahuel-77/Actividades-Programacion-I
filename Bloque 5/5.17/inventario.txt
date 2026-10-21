@@ -1,0 +1,5 @@
+titulo,copias
+Rayuela,7
+Bestiario,5
+Ficciones,0
+Cien años de soledad,4
